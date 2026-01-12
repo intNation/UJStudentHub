@@ -1,0 +1,9 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/IFMTYP2025/team44-mobile.git
+[submodule "web"]
+	path = web
+	url = https://github.com/IFMTYP2025/team44.git
+[submodule "api"]
+	path = api
+	url = https://github.com/IFMTYP2025/team44-api.git
