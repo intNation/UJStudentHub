@@ -42,5 +42,5 @@ The system simplifies student engagement by allowing students to join communitie
 Since the repo contains submodules, You can clone the repo locally with:
 
 ```bash
-git clone --recurse-submodules https://github.com/intNation/StudentHub.git
+git clone --recurse-submodules https://github.com/intNation/UJStudentHub.git
 
